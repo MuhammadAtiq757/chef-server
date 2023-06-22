@@ -1,0 +1,295 @@
+
+    [{
+      "id": 101,
+      "name": "Alice Waters",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtISXtBjNqCh5srfDkaablcdr12Pzqlu2TeDiThw1SS3se-lHdtC3-CEhPpzGkd1cPug&usqp=CAU",
+      "years_of_experience": 50,
+      "ratings": 4.9,
+
+      "recipes": [
+        {
+          "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+          "recipe_name": "Coq au Vin",
+          "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+          "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+          "rating": 4.7,
+          "favorite": true,
+          "likes": 1234,
+          "experience": "2",
+          "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+          "recipe_name": "Bouillabaisse",
+          "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+          "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+          "rating": 4.9,
+          "favorite": true,
+          "likes": 123,
+         "experience": "1",
+         "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+          "recipe_name": "Ratatouille",
+          "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+          "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+          "rating": 4.5,
+          "favorite": false,
+          "likes": 12,
+        "experience": "5",
+        "number_of_recipe": "5"
+        }
+      ],
+    
+      "likes": 500,
+      "view_button": "https://example.com/chef/1",
+      "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has been awarded a total of 16 Michelin Stars throughout his career.",
+            "chefi_number": "12345"
+    },
+    {
+      "id": 102,
+      "name": "Gordon Ramsay",
+      "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "years_of_experience": 35,
+      "ratings": 4.7,
+      "recipes": [
+        {
+          "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+          "recipe_name": "Coq au Vin",
+          "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+          "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+          "rating": 4.7,
+          "favorite": true,
+          "likes": 1234,
+          "experience": "7",
+          "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+          "recipe_name": "Bouillabaisse",
+          "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+          "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+          "rating": 4.9,
+          "favorite": true,
+          "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+          "recipe_name": "Ratatouille",
+          "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+          "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+          "rating": 4.5,
+          "favorite": false,
+          "likes": 1234,
+        "experience": "2",
+        "number_of_recipe": "5"
+        }
+      ],
+    
+      "likes": 1000,
+      "view_button": "https://example.com/chef/2",
+      "description": "Julia Child was an American chef, author, and television personality who is credited with introducing French cuisine to the American public through her cookbooks and television programs.",
+      "chefi_number": "23456"
+    },
+    {
+      "id": 103,
+      "name": "Ina Garten",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNCH7EMSxMzb_xt7M6CKN-AI1h82nAJ1fVjtCVT0-c4fii_0cMyRVFMtR5qTzFyebnEU&usqp=CAU",
+      "years_of_experience": 30,
+      "ratings": 4.8,
+      "recipes": [
+        {
+          "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+          "recipe_name": "Coq au Vin",
+          "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+          "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+          "rating": 4.7,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "7",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+          "recipe_name": "Bouillabaisse",
+          "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+          "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+          "rating": 4.9,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "7",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+          "recipe_name": "Ratatouille",
+          "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+          "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+          "rating": 4.5,
+          "favorite": false,
+          "likes": 1234,
+        "experience": "8",
+        "number_of_recipe": "5"
+        }
+      ],
+    
+      "likes": 800,
+      "view_button": "https://example.com/chef/3",
+      "description": "Massimo Bottura is an Italian chef and restaurateur who is the owner and chef patron of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy.",
+      "chefi_number": "34567"
+    },
+    {
+      "id": 104,
+      "name": "Jamie Oliver",
+      "image": "https://thumbs.dreamstime.com/b/cook-adding-sauce-bowl-commercial-kitchen-african-male-chef-cooking-food-restaurant-kitchen-chef-cooking-food-103450570.jpg",
+      "years_of_experience": 25,
+      "ratings": 4.6,
+      "recipes": [
+        {
+          "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+          "recipe_name": "Coq au Vin",
+          "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+          "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+          "rating": 4.7,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "6",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+          "recipe_name": "Bouillabaisse",
+          "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+          "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+          "rating": 4.9,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "4",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+          "recipe_name": "Ratatouille",
+          "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+          "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+          "rating": 4.5,
+          "favorite": false,
+          "likes": 1234,
+        "experience": "2",
+        "number_of_recipe": "5"
+        }
+      ],
+    
+      "likes": 700,
+      "view_button": "https://example.com/chef/4",
+      "description": "Christina Tosi is an American chef, author, and television personality who is the founder of Milk Bar, a bakery and dessert chain.",
+      "chefi_number": "45678"
+    },
+    {
+      "id": 105,
+      "name": "Massimo Bottura",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnyU3f3uXmlU15nkA3EIUz9nLKRSH0aDa_kAhVEgOdvo0Pf7wo9pmJ7jP8JpXnz27sAV0&usqp=CAU",
+      "years_of_experience": 30,
+      "ratings": 4.9,
+      "recipes": [
+        {
+          "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+          "recipe_name": "Coq au Vin",
+          "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+          "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+          "rating": 4.7,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "1",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+          "recipe_name": "Bouillabaisse",
+          "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+          "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+          "rating": 4.9,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "3",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+          "recipe_name": "Ratatouille",
+          "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+          "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+          "rating": 4.5,
+          "favorite": false,
+          "likes": 1234,
+        "experience": "5",
+        "number_of_recipe": "5"
+        }
+      ],
+    
+      "likes": 900,
+      "view_button": "https://example.com/chef/5",
+      "description": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and author who is known for his Mediterranean-inspired vegetarian and vegan dishes.",
+      "chefi_number": "56789"
+    },
+    {
+      "id": 106,
+      "name": "Nigella Lawson",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3YdvvskMlYH5XoLBC9BjqrLYhvDpvTNHk4EWoxfKec6f5uOkgfh-GN5FoYA7K_u1shc&usqp=CAU",
+      "years_of_experience": 20,
+      "ratings": 4.5,
+      "recipes": [
+        {
+          "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+          "recipe_name": "Coq au Vin",
+          "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+          "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+          "rating": 4.7,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "4",
+        "number_of_recipe": "5"
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+          "recipe_name": "Bouillabaisse",
+          "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+          "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+          "rating": 4.9,
+          "favorite": true,
+          "likes": 1234,
+        "experience": "2",
+        "number_of_recipe": "5"
+
+        },
+        {
+          "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+          "recipe_name": "Ratatouille",
+          "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+          "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+          "rating": 4.5,
+          "favorite": false,
+          "likes": 1234,
+          "experience": "3",
+          "number_of_recipe": "5"
+          
+        }
+      ],
+    
+      "likes": 600,
+      "view_button": "https://example.com/chef/6",
+      "description": "Christina Tosi is an American chef, author, and television personality who is the founder of Milk Bar, a bakery and dessert chain.",
+      "chefi_number": "45678"
+    }
+   
+    
+      ]
+
+
+
+
+
+    
+ 
+        

@@ -1,0 +1,173 @@
+ [
+      {
+        "id": 101,
+        "name": "Chicken Parmesan",
+        "description": "A classic Italian dish featuring breaded chicken topped with tomato sauce and melted mozzarella cheese.",
+        "image_url": "https://www.example.com/images/chicken_parmesan.jpg",
+        "likes": 1234,
+        "experience": "Intermediate",
+        "chef_id":1
+      },
+      {
+        "id": 101,
+        "name": "Beef Stroganoff",
+        "description": "A hearty Russian dish featuring tender strips of beef and mushrooms in a creamy sour cream sauce.",
+        "image_url": "https://www.example.com/images/beef_stroganoff.jpg",
+        "likes": 987,
+        "experience": "Advanced",
+        "chef_id": 2
+      },
+      {
+        "id": 101,
+        "name": "Shrimp Scampi",
+        "description": "A classic Italian-American dish featuring succulent shrimp in a buttery garlic sauce served over pasta.",
+        "image_url": "https://www.example.com/images/shrimp_scampi.jpg",
+        "likes": 876,
+        "experience": "Intermediate",
+        "chef_id": 3
+      },
+      {
+        "id": 102,
+        "name": "Pad Thai",
+        "description": "A popular Thai dish featuring stir-fried rice noodles with eggs, peanuts, and a savory sauce.",
+        "image_url": "https://www.example.com/images/pad_thai.jpg",
+        "likes": 4321,
+        "experience": "Beginner",
+        "chef_id": 4
+      },
+      {
+        "id": 102,
+        "name": "Beef Bourguignon",
+        "description": "A classic French dish featuring tender beef stewed with red wine, onions, and bacon.",
+        "image_url": "https://www.example.com/images/beef_bourguignon.jpg",
+        "likes": 5432,
+        "experience": "Advanced",
+        "chef_id":5
+      },
+      {
+        "id": 102,
+        "name": "Lemon Garlic Butter Salmon",
+        "description": "A simple and delicious dish featuring juicy salmon fillets cooked in a flavorful lemon garlic butter sauce.",
+        "image_url": "https://www.example.com/images/salmon.jpg",
+        "likes": 9876,
+        "experience": "Intermediate",
+        "chef_id": 6
+      },
+      {
+        "id": 103,
+        "name": "Baked Macaroni and Cheese",
+        "description": "A classic American comfort food featuring creamy macaroni and cheese baked to perfection.",
+        "image_url": "https://www.example.com/images/mac_and_cheese.jpg",
+        "likes": 6543,
+        "experience": "Beginner",
+        "chef_id": 7
+      },
+      {
+        "id": 103,
+        "name": "Steak Frites",
+        "description": "A simple and delicious French dish featuring juicy steak and crispy fries.",
+        "image_url": "https://www.example.com/images/steak_frites.jpg",
+        "likes": 8765,
+        "experience": "Intermediate",
+        "chef_id": 8
+      },
+      {
+        "id": 103,
+        "name": "Pesto Pasta",
+        "description": "A simple and delicious Italian dish featuring pasta tossed in a flavorful pesto sauce.",
+        "image_url": "https://www.example.com/images/steak_frites.jpg",
+        "likes": 8765,
+        "experience": "Intermediate",
+        "chef_id": 9
+    
+    },
+    
+       
+              {
+                "id": 104,
+                "name": "Taco Salad",
+                "description": "A delicious and healthy salad featuring ground beef, lettuce, tomatoes, cheese, and taco seasoning.",
+                "image_url": "https://www.example.com/images/taco_salad.jpg",
+                "likes": 1234,
+                "experience": "Beginner",
+                "chef_id": 10
+              },
+              {
+                "id": 104,
+                "name": "Chicken Tikka Masala",
+                "description": "A classic Indian dish featuring marinated chicken in a creamy tomato sauce.",
+                "image_url": "https://www.example.com/images/chicken_tikka_masala.jpg",
+                "likes": 2345,
+                "experience": "Intermediate",
+                "chef_id": 11
+              },
+              {
+                "id": 104,
+                "name": "Spaghetti Carbonara",
+                "description": "A classic Italian pasta dish featuring spaghetti tossed with eggs, Parmesan cheese, and bacon.",
+                "image_url": "https://www.example.com/images/spaghetti_carbonara.jpg",
+                "likes": 3456,
+                "experience": "Intermediate",
+                "chef_id": 12
+              },
+              {
+                "id": 105,
+                "name": "Grilled Steak",
+                "description": "A simple and delicious dish featuring a juicy steak grilled to perfection and seasoned with salt and pepper.",
+                "image_url": "https://www.example.com/images/grilled_steak.jpg",
+                "likes": 8765,
+                "experience": "Beginner",
+                "chef_id": 13
+              },
+              {
+                "id": 105,
+                "name": "Vegetable Stir Fry",
+                "description": "A healthy and delicious dish featuring a colorful medley of stir-fried vegetables in a savory sauce.",
+                "image_url": "https://www.example.com/images/stir_fry.jpg",
+                "likes": 5432,
+                "experience": "Beginner",
+                "chef_id": 14
+              },
+              {
+                "id": 105,
+                "name": "Baked Salmon with Dill",
+                "description": "A flavorful and healthy dish featuring baked salmon seasoned with dill and served with a side of roasted vegetables.",
+                "image_url": "https://www.example.com/images/salmon_with_dill.jpg",
+                "likes": 4321,
+                "experience": "Intermediate",
+                "chef_id":15
+              },
+              {
+                "id": 106,
+                "name": "Mushroom Risotto",
+                "description": "A creamy and comforting Italian dish featuring risotto cooked with mushrooms, white wine, and Parmesan cheese.",
+                "image_url": "https://www.example.com/images/mushroom_risotto.jpg",
+                "likes": 9876,
+                "experience": "Advanced",
+                "chef_id": 16
+              },
+              {
+                "id": 106,
+                "name": "Roasted Chicken with Vegetables",
+                "description": "A classic and flavorful dish featuring roasted chicken seasoned with herbs and served with a side of roasted vegetables.",
+                "image_url": "https://www.example.com/images/roasted_chicken.jpg",
+                "likes": 6543,
+                "experience": "Intermediate",
+                "chef_id": 17
+              },
+             
+              {
+                "id": 106,
+                "name": "Roasted Chicken with Vegetables",
+                "description": "A classic and flavorful dish featuring roasted chicken seasoned with herbs and served with a side of roasted vegetables.",
+                "image_url": "https://www.example.com/images/roasted_chicken.jpg",
+                "likes": 6543,
+                "experience": "Intermediate",
+                "chef_id": 18
+              }
+             
+          
+    
+    
+    ]
+  
